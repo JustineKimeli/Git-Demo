@@ -1,1 +1,2 @@
 Hello from my first git repo
+Second line added
